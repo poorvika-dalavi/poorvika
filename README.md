@@ -1,2 +1,1 @@
-# poorvika
-hiii
+print ("hello world")
